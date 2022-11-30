@@ -58,7 +58,7 @@ void Job_Base(void)
     printf("\n*     Job Base Arch    *");
     printf("\n************************");
 
-#if 1
+#if 0
     printf("\n ");
     for (i=0 ; i<10 ; i++)
         printf(" %3d ", buf[i]);
